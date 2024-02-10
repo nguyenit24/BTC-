@@ -1,0 +1,25 @@
+OHSG3
+Tran Van M
+13/02/2001
+212, Tang Nhon Phu, Quan 7, TP.HCM
+Nam
+2.88
+7KECO
+Tran Van F
+13/10/2000
+291, My Thanh, Quan 11, TP.HCM
+Nam
+8.41
+8BG01
+Nguyen Van V
+15/07/2001
+300, Tang Nhon Phu, Quan 7, Vung Tau
+Nam
+7.72
+D6JBL
+Tran Thi H
+15/05/1999
+419, Tang Nhon Phu, Quan 9, TP.HCM
+Nu
+8.93
+3

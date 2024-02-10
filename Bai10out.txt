@@ -1,0 +1,9 @@
+Mat hang co so luong ton lon nhat la : Huynh Duy Nguyen
+Mat hang co so luong ton it nhat la : smart phone
+Mat hang co gia tien nhat la : smart phone
+Mat hang co thoi gian bao hanh lon hon 12 thang la : 
+ + Huynh Duy Nguyen
+ + smart phone
+Theo thu tu tang dan cua so luong ton:
+ + smart phone
+ + Huynh Duy Nguyen
